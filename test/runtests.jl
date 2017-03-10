@@ -3,7 +3,7 @@
 module IntTest
 	using HW_int
 	using FactCheck
-	using Base.Test
+
 
 	# Possible tests:
 	# Are results what we expected?

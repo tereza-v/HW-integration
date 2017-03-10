@@ -22,12 +22,21 @@ This repo contains a code scaffold for the integration homework. It will contain
 ## Submission
 
 * Deadline is 24h prior to our next class.
-* You must submit your work via pull request.
-	* this means that you need to fork this repo to your account now, and then clone it to your computer.
-	* Once you are done with your work, commit it to your local repo (on your computer)
-	* Push it to your github account.
-	* On your `HW-integration` fork on github, click the `new pull request` button.
-	* In the comment, let me know who was working together on this homework. You should mention yourself and your collaborator's name with `@your_github_username`. For example, I would write "this was done by @floswald".
+* You must submit your work via pull request.  
+
+1. Fork this repository (click on **fork** top right of this page; this makes a copy of this repo on your github account [*somewhere in the cloud*])
+1. Go to your fork (it takes you there anyway), and clone your fork to your computer (click on **clone or download**)
+	1. If you installed Github Desktop (recommended), click on "Open in Desktop"
+	1. GitHub Desktop will ask you where you want the repo cloned to. Let's call that location on your computer `x`.
+	1. Navigate to location `x`.
+	1. Do the homework.
+1. Back in Github Desktop: You see it says *1 uncommitted change*. It tells you that the state of the repo changed. good.
+1. write a summary of the change. 
+1. click on *commit to master*. `master` is the default branch on this repo.
+1. Top right in Github Desktop, click on *Pull Request*.
+1. In the comment, let me know who was working together on this homework. You should mention yourself and your collaborator's name with `@your_github_username`. For example, I would write "this was done by @floswald".
+1. Then click *Send Pull Request*.
+1. Done.
 
 
 # License
